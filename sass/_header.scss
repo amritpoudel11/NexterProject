@@ -27,8 +27,8 @@
         align-items: center;
         font-size: 1.6rem;
         color: $color-grey-light-2;
-        &::after,
-        &::before{
+        &::before,
+        &::after{
             content: "";
             height: 1px;
             display: block;
